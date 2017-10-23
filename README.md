@@ -1,3 +1,8 @@
+# An Extension of the Structural Simulation Toolkit's DUMPI Trace Library
+Goals:
+* Add call stack logging 
+* Add logical clock piggybacking as in https://github.com/PRUNERS/CLMPI/
+
 ![SST](http://sst-simulator.org/img/sst-logo-small.png)
 
 # Structural Simulation Toolkit (SST) DUMPI Trace Library
